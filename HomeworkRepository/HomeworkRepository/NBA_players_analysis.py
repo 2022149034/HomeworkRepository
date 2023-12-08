@@ -1,10 +1,9 @@
 import pandas as pd
 
-# Load the CSV files
 file_paths = [
-    "C:/Users/蒲兴弋/Desktop/HomeworkRepository/HomeworkRepository/1_lebron_james_shot_chart_1_2023.csv",
-    "C:/Users/蒲兴弋/Desktop/HomeworkRepository/HomeworkRepository/2_james_harden_shot_chart_2023.csv",
-    "C:/Users/蒲兴弋/Desktop/HomeworkRepository/HomeworkRepository/3_stephen_curry_shot_chart_2023.csv"
+    "./data/1_lebron_james_shot_chart_1_2023.csv",
+    "./data/2_james_harden_shot_chart_2023.csv",
+    "./data/3_stephen_curry_shot_chart_2023.csv"
 ]
 
 # Reading the data
